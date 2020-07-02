@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type":"vars",
+    "id": "var-GNYCHYgo4sM281LQ",
+    "attributes": {
+      "key":"placeholder",
+      "value":"placekitten.com",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    }
+  }
+}

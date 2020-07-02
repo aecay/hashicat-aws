@@ -1,0 +1,17 @@
+{
+  "data": {
+    "attributes": {
+      "is-destroy":false,
+      "message": "Cats are Magic! 🦄 🌈 🧙‍♂️"
+    },
+    "type":"runs",
+    "relationships": {
+      "workspace": {
+        "data": {
+          "type": "workspaces",
+          "id": "ws-28EN1KZw2ss2jd1B"
+        }
+      }
+    }
+  }
+}
